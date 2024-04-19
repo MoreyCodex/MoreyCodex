@@ -10,7 +10,9 @@ mundo con esfuerzo y sacrificio todo es posible, si te lo propones, lo primero e
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
 [![R](https://img.shields.io/badge/R-4489A1?style=flat&logo=R&logoColor=white%26labelColor%3D101010&labelColor=101010)]()
+[![RStudio](https://img.shields.io/badge/RStudio-4490A1?style=flat&logo=RStudio&logoColor=white%26labelColor%3D101010&labelColor=101010)]()
 
 <!--
 **MoreyCodex/MoreyCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
