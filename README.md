@@ -2,7 +2,7 @@
 
 Estudiante de Python autodidacta y futuro ingeniero de software.
 
-En 2023 dejé mi trabajo como constructor para empezar a crear mi propio destino, ser ingeniero de software cueste lo que me cueste.
+En 2023 empecé a estudiar programación para empezar a crear mi propio camino, ser ingeniero de software cueste lo que me cueste.
 Mi sueño es llegar a obtener el conocimiento necesario como para ayudar a los demas a conseguir sus propios objetivos, en este 
 mundo con esfuerzo y sacrificio todo es posible, si te lo propones, lo primero es realizar tu propio cambio.
 
