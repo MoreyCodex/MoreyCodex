@@ -12,7 +12,7 @@ mundo con esfuerzo y sacrificio todo es posible, si te lo propones, lo primero e
 [![ MySQL ](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 <body>
-    <img src="imagenes/TheTimeIsNow.jpg">
+    <img height="300em" src="imagenes/TheTimeIsNow.jpg">
 </body>
 
  <div align="center"> 
