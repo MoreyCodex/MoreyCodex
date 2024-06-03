@@ -11,11 +11,11 @@ mundo con esfuerzo y sacrificio todo es posible, si te lo propones, lo primero e
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![ MySQL ](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-<div style="display: inline_block" align="center"><br>
-   <p align="center">
-    <img width="400em" src="" />
-    <img src="images/TheTimeIsNow.jpg" alt="Llego la hora">
-</p>
+<body>
+    <h1>Imagen desde Repositorio GitHub</h1>
+    <img src="imagenes/TheTimeIsNow.jpg">
+</body>
+
  <div align="center"> 
 <img height="300em"src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt"hello world"> <br><br><br>
 </div> 
